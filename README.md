@@ -1,1 +1,1 @@
-# This repository only show my certficates of achievements in Advance Excel and power BI and SQL
+# This repository only show my certficates of achievements in Advance Excel and power BI
